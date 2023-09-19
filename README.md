@@ -2,4 +2,4 @@
 
 ## Final Project of Complete React Course
 
-Live demo:https://the-app-wild-oasis.netlify.app/dashboard
+Live demo:https://the-app-wild-oasis.netlify.app
